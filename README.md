@@ -16,6 +16,6 @@
   </div>
 
   <div align="center" id="education">
-    <h3>Education</h3>
+<!--     <h3>Education</h3> -->
   </div>
 </div>
