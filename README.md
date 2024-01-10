@@ -6,7 +6,7 @@
   <div align="center" id="about">
     <h3>About Me</h3>
     <p>I'm a software engineer with 1+ years of hands-on experience in solving complex software problems and transforming ideas into robust, scalable, and user-centric software solutions. 
-      <em><strong>I'm passionate about making the world a better place by using technology and building products that solve real-world problems. I strive to do this by continuously learning and building software projects.</strong></em>
+  <em><strong>I'm passionate about building products that solve real-world problems. I strive to do this by continuously learning and building software projects.</strong></em>
     </p>
   </div>
   
