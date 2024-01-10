@@ -3,16 +3,16 @@
 <h3 align="center">Software Engineer | Full Stack Engineer | Backend Engineer | Frontend Engineer</h3>
 
 <div>
-  <div id="about">
+  <div align="center" id="about">
     <h3>About Me</h3>
     <p></p>
   </div>
   
-  <div id="projects">
+  <div align="center" id="projects">
      <h3>Projects</h3>
   </div>
 
-  <div id="education">
+  <div align="center" id="education">
     <h3>Education</h3>
   </div>
 </div>
