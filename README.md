@@ -12,7 +12,7 @@
   
   <div align="center" id="projects">
      <h3>Projects</h3>
-     <a href="/">MERN Expense Tracker</a>
+     <a href="https://github.com/Michle99/MERN_Expense_Tracker">MERN Expense Tracker</a>
   </div>
 
   <div align="center" id="education">
